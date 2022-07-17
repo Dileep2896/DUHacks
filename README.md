@@ -1,16 +1,24 @@
-# evon_merchant
+# DU Hacks
 
-A new Flutter project.
+### Team Name: BitByBit
+### Project Name: EVon
 
-## Getting Started
+### Created by Flutter
 
-This project is a starting point for a Flutter application.
+## EVon ⚡
 
-A few resources to get you started if this is your first Flutter project:
+### Feed your EV with EVon
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+EVon is a redefined solution for tracking and analyzing electric charging stations. In our application, we connect home chargers with the users who need the charging for their EVs. The unique idea is to provide users who own an EV home charger to lend their chargers to users who are willing to use the chargers. Apart from accessing home chargers, our application also provides fast charging station locations such as (ather, ola, bounce, etc.). This will help the users to judge what they are willing to adopt and select the charging based on their requirements.
+We also have functionalities of installing fast chargers in places such as cafes, apartments & any willing universities, or public places. Our application also has the algorithm to detect and suggest nearby chargers based on the user’s EV’s battery percentages which will help to understand the users where they should be visiting and for how long he/she need to charge the vehicles to reach their destination.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![HomeBookingWorking](https://user-images.githubusercontent.com/55010518/173008975-b2d55ae3-3800-41a4-8e96-ad4924fa638a.png)
+### Home Booking Flowchart
+
+![EVon_FlowChart](https://user-images.githubusercontent.com/55010518/173009046-57b4133e-1129-4ea5-bc9f-a49a45217a3e.png)
+### User and Merchant Application Flowchart
+
+![Low_battery_suggestion](https://user-images.githubusercontent.com/55010518/173009161-2cac451e-b986-453a-9da3-86bd712c5d65.png)
+### Low Battery Suggestion Algorithm Flowchart
+
